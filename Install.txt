@@ -1,0 +1,19 @@
+Components needing special installation:
+
+- Git lfs is required to download many needed files
+
+- Use pip install -r requirements.txt to get pip-fetchable unmodified libraries
+
+- Download files from https://github.com/ryankiros/skip-thoughts into data/skipthoughts/models
+
+- Use modified versions of pyrouge and pythonrouge (found in /lib
+
+- Install perl module XML::DOM
+
+- Download many nltk componets (or just download all
+    brown
+    stopwords
+    wordnet
+    punkt
+    porter
+
